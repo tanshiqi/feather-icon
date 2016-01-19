@@ -1,0 +1,26 @@
+{
+  "name": "feather-icon",
+  "version": "1.0.0",
+  "style": "css/feather.css",
+  "keywords": ["font", "feather", "icon"],
+  "description": "Feather is a growing collection of beautifully simple icons by @colebemis.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanshiqi/feather-icon.git"
+  },
+  "author": {
+    "name": "atan",
+    "email": "tanshiqi@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "colebemis",
+      "web": "https://github.com/colebemis/feather"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanshiqi/feather-icon/issues"
+  },
+  "homepage": "https://github.com/tanshiqi/feather-icon#readme"
+}
